@@ -12,4 +12,4 @@ Geoprocessing Programming based on Python
 Tutorial of basic remote sensing and GIS methodologies using modern open source
 software in Python (rasterio, shapely, GeoPandas, folium, etc). Notebooks cover raster processing, vector analysis, and a workflow to perform image classification using machine learning classifiers in `scikit-learn`:
 
-Happy lerning
+Happy learning
